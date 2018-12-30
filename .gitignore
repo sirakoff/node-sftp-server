@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 node_modules
+=======
+node_modules
+ssh_host_rsa_key
+ssh_host_dsa_key
+.idea
+>>>>>>> a230624d05ab6062640a844a491aa7f824006f64
